@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		73B13C941C40830400BF6B75 /* Juego de Memoria definitivo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego de Memoria definitivo.playground"; path = "../../Desktop/Juego memoria definitivo/Juego de Memoria definitivo.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		73B13C8C1C40808200BF6B75 = {
 			isa = PBXGroup;
 			children = (
+				73B13C941C40830400BF6B75 /* Juego de Memoria definitivo.playground */,
 			);
 			sourceTree = "<group>";
 		};
